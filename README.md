@@ -1,8 +1,8 @@
 # sqlinjection
 Exploiting SQL Injection vulnerability
 
-### NAME:HARSHAVARDHAN.K.B
-### REG NO: 212224240054
+### NAME:MOULIDHARAN.S
+### REG NO: 212224240095
 
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
